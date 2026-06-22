@@ -1,0 +1,11 @@
+{
+    "sub2api_url": "http://127.0.0.1:8080",
+    "cpa_url": "http://127.0.0.1:8317",
+    "admin_email": "willezhou2015@gmail.com",
+    "admin_password": "wasyyfv2015",
+    "cpa_api_key": "08b2e45d0847b07272dbe08971bf65e1",
+    "sub2api_api_key": "sk-8b42acaa280f01dded0c130fedd3598e69b7d518692f5b63254998e94d4fbf1e",
+    "group_id": 26,
+    "default_concurrency": 5,
+    "default_priority": 1
+}
